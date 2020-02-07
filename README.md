@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/MillyLegion/rsschool-cv/cv
