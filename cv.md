@@ -14,6 +14,6 @@
 * machine learning
 * nlp
 
-One of my latst code examples: [source](hhttps://github.com/MillyLegion/my-first-blog)
+5. One of my latst code examples: [source](hhttps://github.com/MillyLegion/my-first-blog)
 
-I have been working with algorithms and machine learning quite a while, and have passed many courses on [stepik](https://stepik.org/) and [coursera](https://www.coursera.org/). Particularly, Andrew Ng course on coursera about basics of machine learning and nlp, python, inntroduction to DB, graph theory and object modeling courses on stepik. For now I'm studying at TUIT. Also, I have an IELTs certificate with 5.5 total score, that I acquired 3 years ago. That really helps me to get to know more by reading more artciles and official documentation on english. 
+7. I have been working with algorithms and machine learning quite a while, and have passed many courses on [stepik](https://stepik.org/) and [coursera](https://www.coursera.org/). Particularly, Andrew Ng course on coursera about basics of machine learning and nlp, python, inntroduction to DB, graph theory and object modeling courses on stepik. For now I'm studying at TUIT. Also, I have an IELTs certificate with 5.5 total score, that I acquired 3 years ago. That really helps me to get to know more by reading more artciles and official documentation on english. 
