@@ -1,1 +1,1 @@
-https://github.com/MillyLegion/rsschool-cv/cv
+https://github.com/MillyLegion/rsschool-cv/blob/gh-pages/cv.md
