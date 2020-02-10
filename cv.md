@@ -1,9 +1,9 @@
-**Behruz Saidjonov**<br>
+1. **Behruz Saidjonov**<br>
 [Telegram](http://t.me/CelestialApotheosis)<br>
-Phone number: <u>+998903188936</u><br>
-I started as *backend developer* in c++ by solving algorithmic tasks and GUI on MIcrosoft Visual Studio. Later I got interested in machine learning and started learning python, as it has all ready to go libraries, frameworks and platforms. I really got inspired by AI and its capabilities, so I have started learning all necessary skills like Theory of Probabilty, discrete mathematics and necessary algorithms. In this juncture I worked at Workly as a junior Golang developer, but later quit this job, as I had no growth. As for now I'm mainly focused on becoming Fullstack developer and passive occupied with bot cretion on teelgram and nlp. I always strive for new skills and learning in all aspects of my life, cause self education is the core skill in this era of chaotic improvements.<br>
+2. Phone number: <u>+998903188936</u><br>
+3. I started as *backend developer* in c++ by solving algorithmic tasks and GUI on MIcrosoft Visual Studio. Later I got interested in machine learning and started learning python, as it has all ready to go libraries, frameworks and platforms. I really got inspired by AI and its capabilities, so I have started learning all necessary skills like Theory of Probabilty, discrete mathematics and necessary algorithms. In this juncture I worked at Workly as a junior Golang developer, but later quit this job, as I had no growth. As for now I'm mainly focused on becoming Fullstack developer and passive occupied with bot cretion on teelgram and nlp. I always strive for new skills and learning in all aspects of my life, cause self education is the core skill in this era of chaotic improvements.<br>
 
-__Skills__:
+4. __Skills__:
 * Python (middle)
 * Python Django
 * html, css, js (junior)
